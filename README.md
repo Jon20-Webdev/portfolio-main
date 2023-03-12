@@ -1,4 +1,5 @@
 # Portfolio Website - Jon Palencia
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd2e3686-7f81-47ae-9fd6-1099a8fcb929/deploy-status)](https://app.netlify.com/sites/jon-portfolio/deploys)
 
 ## **Description:**
 
